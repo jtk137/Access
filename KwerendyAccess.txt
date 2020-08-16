@@ -1,0 +1,8 @@
+Zapytania do bazy (Kwerendy):
+a.	Wszystkie dane dotycz¹ce produktów i i ich cena brutto 
+b.	Ceny produktów brutto dla ka¿dego klienta po uwzglêdnieniu jego rabatu 
+c.	Zmniejszenie ceny netto wszystkich produktów o 10%, które posiadaj¹ w swojej nazwie s³owo „sukienka” 
+d.	Zestawienie zamówieñ na dziœ z dat¹ pobieran¹ automatycznie.
+e.	W danym przedziale czasowym suma p³atnoœci ka¿dego z klientów, ale tylko tych, którzy zap³acili podan¹ kwotê
+f.	B³êdy w p³atnoœciach – kiedy klient nie zap³aci³ lub zap³aci³ za ma³o za zamówienia
+
